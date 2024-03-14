@@ -132,7 +132,7 @@ public class student {
 		frame.getContentPane().add(btnNewButton);
 		
 		JLabel lblNewLabel_5 = new JLabel("");
-		lblNewLabel_5.setIcon(new ImageIcon("C:\\Users\\online lab\\Downloads\\14566055790_f191cb7ba5_b (1).jpg"));
+		lblNewLabel_5.setIcon(new ImageIcon("C:\\Users\\online lab\\Downloads\\14566055790_f191cb7ba5_b (1).jpg"));//change the it to change the image
 		lblNewLabel_5.setBounds(0, 0, 434, 261);
 		frame.getContentPane().add(lblNewLabel_5);
 	}
